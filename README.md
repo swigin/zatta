@@ -9,3 +9,18 @@ Unicodeの漢字のうち日本語に使われる漢字のキャラセット
 ※'𠮷(つちよし)'が無かったりするので注意
 
 参考：http://www.unicode.org/reports/tr38/
+
+### [jis_kanji_1.txt](https://github.com/swigin/zatta/blob/main/jis_kanji_1.txt)
+JIS第1水準漢字のキャラセット
+
+### [jis_kanji_2.txt](https://github.com/swigin/zatta/blob/main/jis_kanji_2.txt)
+JIS第2水準漢字のキャラセット
+
+### [jis_kanji_3.txt](https://github.com/swigin/zatta/blob/main/jis_kanji_3.txt)
+JIS第3水準漢字のキャラセット
+
+### [jis_kanji_4.txt](https://github.com/swigin/zatta/blob/main/jis_kanji_4.txt)
+JIS第4水準漢字のキャラセット
+
+### [jis_kanji_all.txt](https://github.com/swigin/zatta/blob/main/jis_kanji_all.txt)
+上記4ファイルの全漢字のキャラセット
