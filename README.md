@@ -24,12 +24,15 @@ JIS第2水準漢字のキャラセット
 
 ### [jis_kanji_3.txt](https://github.com/swigin/zatta/blob/main/jis_kanji_3.txt)
 JIS第3水準漢字のキャラセット
+
 漢字数：1259字
 
 ### [jis_kanji_4.txt](https://github.com/swigin/zatta/blob/main/jis_kanji_4.txt)
 JIS第4水準漢字のキャラセット
+
 漢字数：2436字
 
 ### [jis_kanji_all.txt](https://github.com/swigin/zatta/blob/main/jis_kanji_all.txt)
 上記4ファイルの全漢字のキャラセット
+
 漢字数：10050字
